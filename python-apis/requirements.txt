@@ -7,4 +7,3 @@ flask-cors
 requests
 python-dotenv
 google-generativeai>=0.3.2
-numpy
